@@ -54,11 +54,13 @@ Seed data can in `db/seeder/seed.lua`, i use Lua scripting language to generate 
 I use ApacheBench for load test, you can visit this page for more information [site](https://httpd.apache.org/docs/2.4/programs/ab.html), for simplicity you can type `make bench` to run benchmark using `ab` a.k.a ApacheBench, or if you want to change the parameter you can look at my Makefile.
 
 ![Load test on cursor based pagination](assets/bm-cursor.png)
+
 Load test on cursor based pagination
 --------
 
 
 ![Load test on page based pagination](assets/bm-page.png)
+
 Load test on page based pagination
 --------
 
