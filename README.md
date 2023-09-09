@@ -56,13 +56,11 @@ I use ApacheBench for load test, you can visit this page for more information [s
 ![Load test on cursor based pagination](assets/bm-cursor.png)
 
 Load test on cursor based pagination
---------
 
 
 ![Load test on page based pagination](assets/bm-page.png)
 
 Load test on page based pagination
---------
 
 ## Summary
 
